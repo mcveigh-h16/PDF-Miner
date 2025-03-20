@@ -7,4 +7,4 @@ Rank assignment rules
 Organism Name -mycotina=subphylum, -mycetes=class, -ales=order, -aceae=family
 If text contains 'incertae sedis' this is appened to the organism name
 
-Merge in Mycobank data from RESP API. Incorporates previously captured data from API and file downloads with the parsed data from the pdf. See 
+Merge in Mycobank data from RESP API. Incorporates previously captured data from API and file downloads with the parsed data from the pdf. See https://github.com/mcveigh-h16/Taxonomy-Maintenance for API details
